@@ -1,0 +1,14 @@
+C:\ConsoleBeep\bin\Debug\net8.0\ConsoleBeep.exe
+C:\ConsoleBeep\bin\Debug\net8.0\ConsoleBeep.deps.json
+C:\ConsoleBeep\bin\Debug\net8.0\ConsoleBeep.runtimeconfig.json
+C:\ConsoleBeep\bin\Debug\net8.0\ConsoleBeep.dll
+C:\ConsoleBeep\bin\Debug\net8.0\ConsoleBeep.pdb
+C:\ConsoleBeep\obj\Debug\net8.0\ConsoleBeep.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConsoleBeep\obj\Debug\net8.0\ConsoleBeep.AssemblyInfoInputs.cache
+C:\ConsoleBeep\obj\Debug\net8.0\ConsoleBeep.AssemblyInfo.cs
+C:\ConsoleBeep\obj\Debug\net8.0\ConsoleBeep.csproj.CoreCompileInputs.cache
+C:\ConsoleBeep\obj\Debug\net8.0\ConsoleBeep.dll
+C:\ConsoleBeep\obj\Debug\net8.0\refint\ConsoleBeep.dll
+C:\ConsoleBeep\obj\Debug\net8.0\ConsoleBeep.pdb
+C:\ConsoleBeep\obj\Debug\net8.0\ConsoleBeep.genruntimeconfig.cache
+C:\ConsoleBeep\obj\Debug\net8.0\ref\ConsoleBeep.dll
